@@ -1,0 +1,40 @@
+D:\Программирование\Проекти\WindowsFormsApp_2\bin\Debug\WindowsFormsApp_2.exe.config
+D:\Программирование\Проекти\WindowsFormsApp_2\bin\Debug\WindowsFormsApp_2.exe
+D:\Программирование\Проекти\WindowsFormsApp_2\bin\Debug\WindowsFormsApp_2.pdb
+D:\Программирование\Проекти\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.csprojAssemblyReference.cache
+D:\Программирование\Проекти\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.Form1.resources
+D:\Программирование\Проекти\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.Properties.Resources.resources
+D:\Программирование\Проекти\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.csproj.GenerateResource.cache
+D:\Программирование\Проекти\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.csproj.CoreCompileInputs.cache
+D:\Программирование\Проекти\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.exe
+D:\Программирование\Проекти\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.pdb
+D:\Программирование\Шаг\Системное программирование\Домашка\WindowsFormsApp_2\bin\Debug\WindowsFormsApp_2.exe.config
+D:\Программирование\Шаг\Системное программирование\Домашка\WindowsFormsApp_2\bin\Debug\WindowsFormsApp_2.exe
+D:\Программирование\Шаг\Системное программирование\Домашка\WindowsFormsApp_2\bin\Debug\WindowsFormsApp_2.pdb
+D:\Программирование\Шаг\Системное программирование\Домашка\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.csprojAssemblyReference.cache
+D:\Программирование\Шаг\Системное программирование\Домашка\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.Form1.resources
+D:\Программирование\Шаг\Системное программирование\Домашка\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.Properties.Resources.resources
+D:\Программирование\Шаг\Системное программирование\Домашка\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.csproj.GenerateResource.cache
+D:\Программирование\Шаг\Системное программирование\Домашка\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.csproj.CoreCompileInputs.cache
+D:\Программирование\Шаг\Системное программирование\Домашка\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.exe
+D:\Программирование\Шаг\Системное программирование\Домашка\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.pdb
+D:\Программирование\Шаг\Системное программирование\Домашка\dz_1_2_childUser\WindowsFormsApp_2\bin\Debug\WindowsFormsApp_2.exe.config
+D:\Программирование\Шаг\Системное программирование\Домашка\dz_1_2_childUser\WindowsFormsApp_2\bin\Debug\WindowsFormsApp_2.exe
+D:\Программирование\Шаг\Системное программирование\Домашка\dz_1_2_childUser\WindowsFormsApp_2\bin\Debug\WindowsFormsApp_2.pdb
+D:\Программирование\Шаг\Системное программирование\Домашка\dz_1_2_childUser\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.csprojAssemblyReference.cache
+D:\Программирование\Шаг\Системное программирование\Домашка\dz_1_2_childUser\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.Form1.resources
+D:\Программирование\Шаг\Системное программирование\Домашка\dz_1_2_childUser\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.Properties.Resources.resources
+D:\Программирование\Шаг\Системное программирование\Домашка\dz_1_2_childUser\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.csproj.GenerateResource.cache
+D:\Программирование\Шаг\Системное программирование\Домашка\dz_1_2_childUser\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.csproj.CoreCompileInputs.cache
+D:\Программирование\Шаг\Системное программирование\Домашка\dz_1_2_childUser\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.exe
+D:\Программирование\Шаг\Системное программирование\Домашка\dz_1_2_childUser\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.pdb
+D:\Программирование\Шаг\Системное программирование\Домашка\дз 1\dz_1_2_childUser\WindowsFormsApp_2\bin\Debug\WindowsFormsApp_2.exe.config
+D:\Программирование\Шаг\Системное программирование\Домашка\дз 1\dz_1_2_childUser\WindowsFormsApp_2\bin\Debug\WindowsFormsApp_2.exe
+D:\Программирование\Шаг\Системное программирование\Домашка\дз 1\dz_1_2_childUser\WindowsFormsApp_2\bin\Debug\WindowsFormsApp_2.pdb
+D:\Программирование\Шаг\Системное программирование\Домашка\дз 1\dz_1_2_childUser\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.csprojAssemblyReference.cache
+D:\Программирование\Шаг\Системное программирование\Домашка\дз 1\dz_1_2_childUser\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.Form1.resources
+D:\Программирование\Шаг\Системное программирование\Домашка\дз 1\dz_1_2_childUser\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.Properties.Resources.resources
+D:\Программирование\Шаг\Системное программирование\Домашка\дз 1\dz_1_2_childUser\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.csproj.GenerateResource.cache
+D:\Программирование\Шаг\Системное программирование\Домашка\дз 1\dz_1_2_childUser\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.csproj.CoreCompileInputs.cache
+D:\Программирование\Шаг\Системное программирование\Домашка\дз 1\dz_1_2_childUser\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.exe
+D:\Программирование\Шаг\Системное программирование\Домашка\дз 1\dz_1_2_childUser\WindowsFormsApp_2\obj\Debug\WindowsFormsApp_2.pdb
